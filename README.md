@@ -8,7 +8,8 @@ Using deep learning technique such as VGG-16 pre-trained model to extract featur
 Implementing similarity metrics to measure the similarity between the query image and the images in the dataset such as Euclidian, Minkowski, Dice, Cosine, Correlation, Canberra, Chebyshev and Hamming.
 Seting 5 as number of retrieved mammograms.
 
-Tools : Programming language: Python.
-Data processing libraries: pandas and NumPy.
-Similarity metrics: Euclidian, Minkowski, Dice, Cosine, Correlation, Canberra, Chebyshev and Hamming.
+**Tools :** <br >
+Programming language: Python. <br >
+Data processing libraries: pandas and NumPy. <br >
+Similarity metrics: Euclidian, Minkowski, Dice, Cosine, Correlation, Canberra, Chebyshev and Hamming. <br >
 Deep learning model: VGG16
